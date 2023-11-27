@@ -1,0 +1,55 @@
+.container {
+  width: 1200px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+#block1,
+#block3,
+#block4 {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  width: 800px;
+  height: 80px;
+  background-color: #99e499;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#block2,
+.block5 {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  width: 800px;
+  height: 200px;
+  background-color: #99e4d7;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#myDiv {
+  width: 500px;
+  height: 150px;
+  margin: 20px;
+  padding: 25px;
+  border: 1px dotted blue;
+}
+.newcolor {
+  background-color: #f30588;
+}
+.h2 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  color: red;
+  padding: 20px;
+}
+#city,
+#color {
+  width: 175px;
+  height: 30px;
+  padding: 20px;
+  border-radius: 4px;
+  background-color: #fff;
+}
